@@ -72,10 +72,3 @@ This project strengthened my ability to:
 - Create a clean MVC architecture suitable for continuous improvement and extension.  
 
 These skills continue to support my work on more advanced software projects, including AI-driven systems and automation tools.
-
-## License
-MIT License.
-
-## Acknowledgments
-- Penn State App Development Studio instructional team  
-- Maine Title 21-A §723-A for official RCV procedures  
